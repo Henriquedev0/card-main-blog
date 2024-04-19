@@ -1,0 +1,12 @@
+body{
+font-family: "Figtree", sans-serif;
+}
+h1{
+    font-weight: 900;
+}
+.learning{
+    font-weight: 800;
+}
+.border{
+    box-shadow: 10px 10px 0px 0 rgba(0, 0, 0, 100);
+}
